@@ -1,0 +1,11 @@
+square_footage,num_bedrooms,num_bathrooms,location,price
+1500,3,2,Urban,300000
+2000,4,3,Suburban,400000
+1800,3,2,Rural,250000
+2500,4,3,Urban,500000
+1200,2,1,Suburban,220000
+2200,3,2,Urban,450000
+1600,2,1,Rural,180000
+3000,5,4,Suburban,600000
+1700,3,2,Urban,320000
+2100,4,3,Suburban,430000
